@@ -28,7 +28,7 @@ PyDispatcher==2.0.5
 pyOpenSSL==20.0.1
 queuelib==1.6.2
 requests==2.26.0
-Scrapy==2.5.0
+Scrapy==2.5.1
 scrapy-splash==0.8.0
 selenium==3.141.0
 service-identity==21.1.0
